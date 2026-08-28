@@ -1,35 +1,36 @@
-# Estudos de JavaScript
+# Estudos de JavaScript 🟨
 
-Repositório destinado aos exercícios e práticas realizados durante meus estudos de JavaScript.
+Repositório destinado aos exercícios e práticas realizados durante meu aprendizado de JavaScript.
 
-## Conteúdos estudados
+O objetivo é registrar minha evolução desde os fundamentos da linguagem até desenvolvimento web com DOM, APIs e conceitos mais avançados.
+
+---
+
+## 📚 Conteúdos estudados
 
 ### Fundamentos
-- Variáveis e tipos de dados
-- Condicionais (`if`, `else if`, `else`)
-- Funções
-- Parâmetros e argumentos
 
-## Exercícios
+- ✅ Variáveis (`let` e `const`)
+- ✅ Tipos de dados
+- ✅ Operadores
+- ✅ Condicionais (`if`, `else if`, `else`)
+- ✅ Funções
+- ✅ Parâmetros e argumentos
+- ✅ `return`
+- ✅ Loops (`for`)
+- ✅ Arrays básicos
+- ✅ Métodos básicos (`push`, `pop`, `shift`, `includes`)
+- 🔄 DOM
+- ⏳ Eventos
+- ⏳ Manipulação de elementos
 
-- Verificação de aprovação de aluno
-- Soma utilizando função
-- Apresentação utilizando parâmetros
-- Verificação de idade para dirigir
-- Calculadora básica
+---
 
-## Em andamento
+## 📂 Estrutura
 
-Atualmente aprofundando os fundamentos de JavaScript.
-
-## Próximos conteúdos
-
-- `return`
-- Loops
-- Arrays
-- DOM e eventos
-
-## Autor
-
-Renan Felipe  
-Estudante de Sistemas de Informação — UNI-RN
+```text
+01-fundamentos/
+├── condicionais/
+├── funcoes/
+├── loops/
+└── arrays/
